@@ -1,0 +1,8 @@
+*.app
+*.spv
+*.mov
+vendor/
+.build/
+*.hi
+*.o
+Futuretide/Temp
